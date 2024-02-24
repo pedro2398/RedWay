@@ -19,4 +19,4 @@ services:
 
 networks:
   redway:
-    external: true
+    driver: bridge
